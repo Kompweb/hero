@@ -54,7 +54,7 @@
 
 </details>
 
-<!-- [website]: https://Kompweb.com -->
+[website]: https://Kompweb.com
 [twitter]: https://twitter.com/stantudor
 [instagram]: https://instagram.com/stantudor
 [linkedin]: https://linkedin.com/in/stantudor
