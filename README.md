@@ -6,7 +6,7 @@
 
 ## I'm a Husband, Father, Developer, and A Mentor!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently a unit-4 student at Lambda school 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play soccer
