@@ -1,11 +1,10 @@
 ### Hi there, I'm Stan - aka [Kompweb][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://kompweb.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/stan2dor?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fstan2dor&screen_name=stan2dor)
+[![Website](https://img.shields.io/website?label=Kompweb.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://kompweb.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/stantudor?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fstan2dor&screen_name=stan2dor)
 
 ## I'm a Husband, Father, Developer, and A Mentor!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -18,11 +17,9 @@
 ### Connect with me:
 
 [<img align="left" alt="Kompweb" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Kompweb | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Kompweb | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Kompweb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kompweb | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Languages and Tools:
@@ -39,7 +36,7 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+
 
 <br />
 <br />
@@ -50,10 +47,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/stan2dor/portfolio-sass/issues/1) in [stan2dor/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. 🎉 Merged PR [#1](https://github.com/Kompweb/portfolio-sass/pull/1) in [stan2dor/portfolio-sass](https://github.com/stan2dor/portfolio-sass)
+1. 🗣 Commented on [#1](https://github.com/stan2dor/portfolio-sass/issues/1) in [stan2dor/portfolio-sass](https://github.com/stan2dor/portfolio-sass)
+2. 🎉 Merged PR [#1](https://github.com/stan2dor/portfolio-sass/pull/1) in [stan2dor/portfolio-sass](https://github.com/stan2dor/portfolio-sass)
 3. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [stan2dor/codestackr-vscode-theme](https://github.com/stan2dor/codestackr-vscode-theme)
-4. 🗣 Commented on [#11](https://github.com/stan2dor/codestackr-vscode-theme/issues/11) in [stan2dor/codestackr-vscode-theme](https://github.com/stan2dor/codestackr-vscode-theme)
+4. 🗣 Commented on [#11](https://github.com/stan2dor/codestackr-vscode-theme/issues/11) in [stan2dor/stan2dor-vscode-theme](https://github.com/stan2dor/codestackr-vscode-theme)
 5. ❌ Closed PR [#1](https://github.com/stan2dor/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/stan2dor/spotify-now-playing)
 <!--END_SECTION:activity-->
 
@@ -67,6 +64,6 @@
 </details>
 
 [website]: https://Kompweb.com
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/stantudor
+[instagram]: https://instagram.com/stan2dor
+[linkedin]: https://linkedin.com/in/stantudor
