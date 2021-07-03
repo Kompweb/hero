@@ -36,11 +36,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1]
-2. 🎉 Merged PR [#1]
-3. 🗣 Commented on [#10]
-4. 🗣 Commented on 
-5. ❌ Closed PR [#1]
+1. 🗣 Commented 
+2. 🎉 Merged PR
+3. ❌ Closed PR
 <!--END_SECTION:activity-->
 
 </details>
