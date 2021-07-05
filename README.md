@@ -1,7 +1,7 @@
 ### Hi there, I'm [Stan Tudor][website] 👋
 <!-- aka Stan2dor  -->
 
-[![Website](https://img.shields.io/website?label=StanTudor&style=for-the-badge)](https://stan-tudor.vercel.app/)
+[![Website](https://img.shields.io/website?logo=StanTudor&style=for-the-badge)](https://stan-tudor.vercel.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/stantudor?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fstantudor&screen_name=stantudor)
 
 ## I'm a Husband, Father, Developer, and A Mentor!!
