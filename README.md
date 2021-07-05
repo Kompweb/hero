@@ -1,4 +1,4 @@
-### Hi there, I'm Stan from [Kompweb][website] 👋
+### Hi there, I'm [Stan Tudor][website] 👋
 <!-- aka Stan2dor  -->
 
 [![Website](https://img.shields.io/website?label=Kompweb.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://kompweb.com)
@@ -50,7 +50,7 @@
 
 </details>
 
-[website]: https://Kompweb.com
+[website]: https://stan-tudor.vercel.app/
 [twitter]: https://twitter.com/stantudor
 [instagram]: https://instagram.com/stantudor
 [linkedin]: https://linkedin.com/in/stantudor
