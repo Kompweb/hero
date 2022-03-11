@@ -6,9 +6,9 @@
 
 ## I'm a Husband, Father, Developer, and A Mentor!!
 
-- I’m currently a unit-5 student at Lambda school 🤣
+- I’m currently a student at Bloomtech Institute 🤣
 - I’m looking to collaborate with other content creators
-- 2021 Goals: Contribute more to Open Source projects
+- 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I write jokes
 
 <!-- ### Connect with me:
