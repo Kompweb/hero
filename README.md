@@ -4,7 +4,7 @@
 <!-- [![Website](https://img.shields.io/website?logo=StanTudor&style=for-the-badge)](https://stan-tudor.vercel.app/) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/stantudor?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fstantudor&screen_name=stantudor)
 
-## I'm a Husband, Father, Developer, and A Mentor!!
+## I'm a Husband, Father, Developer, and A Mentor!
 
 - I’m currently a student at Bloomtech Institute 🤣
 - I’m looking to collaborate with other content creators
