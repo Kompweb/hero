@@ -6,10 +6,10 @@
 
 ## I'm a Husband, Father, Developer, and A Mentor!
 
-- I’m currently a student at Bloomtech Institute 🤣
+- I’m currently working on Labs projects at Bloomtech Institute 🤣
 - I’m looking to collaborate with other content creators
 - 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I write jokes
+- ⚡ Fun fact: I write jokes for stand-up
 
 <!-- ### Connect with me:
 
@@ -51,7 +51,4 @@
 
 </details>
 
-[website]: https://stan-tudor.vercel.app/
-[twitter]: https://twitter.com/stantudor
-[instagram]: https://instagram.com/stantudor
 [linkedin]: https://linkedin.com/in/stantudor
