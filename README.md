@@ -1,4 +1,4 @@
-### Hi there, I'm [Stan Tudor][website] 👋
+### Hi there, I'm Stan Tudor 👋
 <!-- aka Stan2dor  -->
 
 <!-- [![Website](https://img.shields.io/website?logo=StanTudor&style=for-the-badge)](https://stan-tudor.vercel.app/) -->
