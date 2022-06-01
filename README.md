@@ -33,22 +33,4 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented 
-2. 🎉 Merged PR
-3. ❌ Closed PR
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <!-- <img align="left" alt="stan2dor's GitHub Stats" src="https://github-readme-stats.stan2dor.vercel.app/api?username=stan2dor&show_icons=true&hide_border=true" /> -->
-
-</details>
-
 [linkedin]: https://linkedin.com/in/stantudor
