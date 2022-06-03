@@ -9,7 +9,7 @@
 - I’m currently working on Labs projects at Bloomtech Institute 🤣
 - I’m looking to collaborate with other content creators
 - 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I write jokes
+- ⚡ Fun fact: I write my own jokes
 
 <!-- ### Connect with me:
 
@@ -22,14 +22,14 @@
 
 ### Languages and Tools 🛠 
 <img align="left" alt="Node.js" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img align="left" alt="Node.js" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="hmtl5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align="left" alt="css" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img align="left" alt="git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Node.js" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="css" width="36px" src="https://img.icons8.com/nolan/72/github.png" />
+<img align="left" alt="github" width="40px" src="https://img.icons8.com/nolan/72/github.png" />
 
 <!-- ![VBA](https://img.shields.io/badge/-VBA-563D7C?style=flat-square&logo=VBA) -->
 
