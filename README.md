@@ -15,7 +15,6 @@
 - I’m currently working on Labs projects at Bloomtech Institute 🤣
 - I’m looking to collaborate with other content creators
 - 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I write my own jokes
 
 <!-- ### Connect with me:
 
