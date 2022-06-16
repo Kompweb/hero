@@ -13,8 +13,7 @@
 ## I'm a Husband, Father, Developer, and A Mentor!
 
 - I’m currently working on Labs projects at Bloomtech Institute 🤣
-- I’m looking to collaborate with other content creators
-- 2022 Goals: Contribute more to Open Source projects
+- I’m looking to collaborate with other content creators and contribute more to Open Source projects
 
 <!-- ### Connect with me:
 
