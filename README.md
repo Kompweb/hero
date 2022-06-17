@@ -5,24 +5,15 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/stantudor?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fstantudor&screen_name=stantudor) <img alt="LinkedIn" src="https://img.shields.io/endpoint?label=linkedIn&logo=linkedIn&logoColor=1DA1F2&style=for-the-badge&url=https://www.linkedin.com/in/stantudor/">
 
 
-<!-- 
-<img alt="LinkedIn" src="https://img.shields.io/endpoint?label=linkedIn&logo=linkedIn&logoColor=1DA1F2&style=for-the-badge&url=https://www.linkedin.com/in/stantudor/">
- -->
+<!-- [![LinkedIn Connect](https://img.shields.io/endpoint?label=linkedIn&logo=linkedIn&logoColor=1DA1F2&style=for-the-badge)](https://www.linkedin.com/in/stantudor/") -->
 
 
 ## I'm a Husband, Father, Developer, and A Mentor!
 
-- I’m currently working on Labs projects at Bloomtech Institute 🤣
+- I’m currently working on Labs projects at Bloomtech Institute 
 - I’m looking to collaborate with other content creators and contribute more to Open Source projects
 
 <!-- ### Connect with me:
-
-[<img align="left" alt="stan2dor" width="22px" color="white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Stan2dor | Twitter" width="22px" color: white src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Stan2dor | LinkedIn" color="white" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Stan2dor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br /> -->
-
 
 ### Languages and Tools 🛠 
 <img align="left" alt="Node.js" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
