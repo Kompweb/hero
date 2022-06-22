@@ -8,10 +8,11 @@
 <!-- [![LinkedIn Connect](https://img.shields.io/endpoint?label=linkedIn&logo=linkedIn&logoColor=1DA1F2&style=for-the-badge)](https://www.linkedin.com/in/stantudor/") -->
 
 
-## I'm a Husband, Father, Developer, and A Mentor!
+## I'm a Father, Developer, and A Mentor!
 
-- I’m currently working on Labs projects at Bloomtech Institute 
-- I’m looking to collaborate with other content creators and contribute more to Open Source projects
+- I love developing software, but I also love working with people
+- I’m passionate about creating quality products that meet all of the customer’s needs, and I love learning new techniques and technologies
+- I’m currently working on Labs projects at Bloomtech Institute and I’m looking to collaborate with other content creators and contribute more to Open Source projects
 
 <!-- ### Connect with me:
 
