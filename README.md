@@ -2,17 +2,24 @@
 <!-- aka Stan2dor  -->
 
 <!-- [![Website](https://img.shields.io/website?logo=StanTudor&style=for-the-badge)](https://stan-tudor.vercel.app/) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/stantudor?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fstantudor&screen_name=stantudor) <img alt="LinkedIn" src="https://img.shields.io/endpoint?label=linkedIn&logo=linkedIn&logoColor=1DA1F2&style=for-the-badge&url=https://www.linkedin.com/in/stantudor/">
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/stantudor?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fstantudor&screen_name=stantudor)  -->
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stantudor/)
 
 
-<!-- [![LinkedIn Connect](https://img.shields.io/endpoint?label=linkedIn&logo=linkedIn&logoColor=1DA1F2&style=for-the-badge)](https://www.linkedin.com/in/stantudor/") -->
+<!-- <img alt="LinkedIn" src="https://img.shields.io/endpoint?label=linkedIn&logo=linkedIn&logoColor=1DA1F2&style=for-the-badge&url=https://www.linkedin.com/in/stantudor/"> -->
+
+
+<!-- [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stantudor/) -->
 
 
 ## I'm a Father, Developer, and A Mentor!
 
 - I love developing software, but I also love working with people
-- I’m passionate about creating quality products that meet all of the customer’s needs, and I love learning new techniques and technologies
-- I’m currently working on Labs projects at Bloomtech Institute and I’m looking to collaborate with other content creators and contribute more to Open Source projects
+- I’m passionate about creating quality products that meet all of the customer’s needs.
+- I love learning new techniques and technologies, 
+- Currently i'm working Full-Stack on Labs projects with Bloomtech Institute
+- I’m looking to collaborate with other content creators and contribute more to Open Source projects
 
 <!-- ### Connect with me:
 
