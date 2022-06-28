@@ -14,7 +14,7 @@
 - I love developing software, but I also love working with people
 - I’m passionate about creating quality products that meet all of the customer’s needs
 - I'm passionate about technology, innovation and big challenging tasks on my to do list
-- Currently i'm working Full-Stack on Labs projects with Bloomtech Institute and I’m looking to collaborate with other content creators and contribute more to Open Source projects
+- Currently I'm working Full-Stack on Labs projects with Bloomtech Institute and I’m looking to collaborate with other content creators and contribute more to Open Source projects
 <!-- ### 🛠  -->
 ________________________
 <img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
